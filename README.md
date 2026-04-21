@@ -6,7 +6,7 @@ Certifications obtenues dans le cadre du programme Holberton School France x IBM
 
 **Open Source Foundations**
 
-![Badge Open Source](certificates-trimester-1/badge-open-source-cert.png)
+![Badge Open Source](certificates-trimester-1/certificate-oss.png)
 
 Certification validant les fondamentaux de l'open source : licences, contribution, gouvernance et écosystème des projets communautaires.
 
@@ -14,6 +14,6 @@ Certification validant les fondamentaux de l'open source : licences, contributio
 
 **Agile Explorer**
 
-![Badge Agile Method](certificates-trimester-1/badge-agile-method.png)
+![Badge Agile Method](certificates-trimester-1/certificate-agile.png)
 
 Certification validant les principes de la méthode agile : itérations, collaboration, livraison continue et adaptation au changement.
