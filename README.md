@@ -6,7 +6,7 @@ Certifications obtenues dans le cadre du programme Holberton School France x IBM
 
 **Open Source Foundations**
 
-![Badge Open Source](certificates-trimester-1/badge-open-source.png)
+![Badge Open Source](certificates-trimester-1/badge-open-source-cert.png)
 
 Certification validant les fondamentaux de l'open source : licences, contribution, gouvernance et écosystème des projets communautaires.
 
